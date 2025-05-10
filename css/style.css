@@ -5448,7 +5448,7 @@ p.p.subtitle:first-child {
 }
 span.p.logo,
 p.p.logo {
-  font-family: Dosis, "PingFang SC", "Microsoft YaHei", Helvetica, Arial, Helvetica, monospace;
+  font-family: Aleo, "PingFang SC", "Microsoft YaHei", Helvetica, Arial, Dosis, Helvetica, monospace;
 }
 span.p.code,
 p.p.code {
